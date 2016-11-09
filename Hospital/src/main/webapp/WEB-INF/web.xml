@@ -1,0 +1,48 @@
+<!DOCTYPE web-app PUBLIC
+        "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+        "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <!--<servlet>-->
+  <!--<servlet-name>CarListServlet</servlet-name>-->
+  <!--<servlet-class>com.tdea.lab3.servlets.CarListServlet</servlet-class>-->
+  <!--</servlet>-->
+
+  <!--<servlet>-->
+  <!--<servlet-name>CarAddServlet</servlet-name>-->
+  <!--<servlet-class>com.tdea.lab3.servlets.CarAddServlet</servlet-class>-->
+  <!--</servlet>-->
+
+  <!--<servlet>-->
+  <!--<servlet-name>OwnerListServlet</servlet-name>-->
+  <!--<servlet-class>com.tdea.lab3.servlets.OwnerListServlet</servlet-class>-->
+  <!--</servlet>-->
+
+  <!--<servlet>-->
+  <!--<servlet-name>OwnerAddServlet</servlet-name>-->
+  <!--<servlet-class>com.tdea.lab3.servlets.OwnerAddServlet</servlet-class>-->
+  <!--</servlet>-->
+
+  <!--<servlet-mapping>-->
+  <!--<servlet-name>CarListServlet</servlet-name>-->
+  <!--<url-pattern>/</url-pattern>-->
+  <!--</servlet-mapping>-->
+
+  <!--<servlet-mapping>-->
+  <!--<servlet-name>CarAddServlet</servlet-name>-->
+  <!--<url-pattern>/addCar</url-pattern>-->
+  <!--</servlet-mapping>-->
+
+  <!--<servlet-mapping>-->
+  <!--<servlet-name>OwnerListServlet</servlet-name>-->
+  <!--<url-pattern>/owners</url-pattern>-->
+  <!--</servlet-mapping>-->
+
+  <!--<servlet-mapping>-->
+  <!--<servlet-name>OwnerAddServlet</servlet-name>-->
+  <!--<url-pattern>/addOwner</url-pattern>-->
+  <!--</servlet-mapping>-->
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>
